@@ -37,7 +37,7 @@ O projeto tem como objetivo praticar e demonstrar habilidades em **estruturaçã
 
 ## 📸 Demonstração
 
-> *[Link do github pages](https://github.com/HeitorStefani/blog-app)*
+> *[Link do github pages](https://heitorstefani.github.io/blog-app/)*
 
 ## 📂 Estrutura de Pastas
 
